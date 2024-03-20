@@ -1,3 +1,6 @@
+# Este script analiza la frecuencia de las palabras en un archivo de texto dado.
+# Utiliza expresiones regulares para dividir el texto en palabras, luego cuenta la frecuencia de cada palabra.
+# Finalmente, imprime las palabras más comunes junto con su frecuencia.
 from collections import Counter
 import re
 
